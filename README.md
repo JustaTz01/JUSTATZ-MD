@@ -15,9 +15,9 @@ JUSTATZ MD</b>, simple powerful bot </p>
 </p>
   <p align="center">
 <a href="https://github.com/JustaTz01?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/JustaTz01?label=Followers&style=social"></a>
-<a href="https://github.com/JustaTz01/JUSTATZ-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/JustaTz01/JUSTATZ-MD?&style=social"></a>
-<a href="https://github.com/JustaTz01/JUSTATZ-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/JustaTz01/JUSTATZ-MD?style=social"></a>
-<a href="https://github.com/JustaTz01/JUSTATZ-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/JustaTz01/JUSTATZ-MD?label=Watching&style=social"></a>
+<a href="https://github.com/JustaTz01/JUSTATZ-MD/stargazers/"><img title="STARS" src="https://i.imgur.com/mzl5n6Z.jpeg/stars/JustaTz01/JUSTATZ-MD?&style=social"></a>
+<a href="https://github.com/JustaTz01/JUSTATZ-MD/network/members"><img title="Forks" src="https://i.imgur.com/mzl5n6Z.jpeg/forks/JustaTz01/JUSTATZ-MD?style=social"></a>
+<a href="https://github.com/JustaTz01/JUSTATZ-MD/watchers"><img title="Watching" src="https://i.imgur.com/mzl5n6Z.jpeg/watchers/JustaTz01/JUSTATZ-MD?label=Watching&style=social"></a>
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{HANSTZ3}/count.svg" alt="JUSTATZ-MD :: Visitor's Count"/></p>
@@ -30,7 +30,7 @@ JUSTATZ MD</b>, simple powerful bot </p>
 ---
 
 <p align="center">
-  <a href="https://github.com/hanstz3/hans_md"><b>JUSTATZ 𝕄𝔻</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
+  <a href="https://github.com/JustaTz01/JUSTATZ_MD"><b>JUSTATZ 𝕄𝔻</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
  𝔾𝔼𝕋 𝕊𝔼𝕊𝕊𝕀𝕆ℕ 𝕀𝔻 𝔹𝕐
  
 
-<a href="https://hanscoder-d74ac23a6e00.herokuapp.com/wasiqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/ℚℝ ℂ𝕆𝔻𝔼-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://justacoder-d74ac23a6e00.herokuapp.com/wasiqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/ℚℝ ℂ𝕆𝔻𝔼-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
  
@@ -84,13 +84,13 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 ℂ𝕆ℕ𝕋𝔸ℂ𝕋 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ 𝕆ℕ 𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ 
 
 𝕎𝔸𝕋𝕊𝔸ℙℙ 𝕄𝔼
-<a href="https://wa.me/message/J2ZL2GNK4GIUA1"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="255784554031" height="60" width="70" /></a>
+<a href="https://wa.me/message/J2ZL2GNK4GIUA1"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="255774044662" height="60" width="70" /></a>
 
 
 𝕎𝔸𝕋𝕊𝔸ℙℙ ℂℍ𝔸ℕℕ𝔼𝕃
 <a
 href="https://youtube.com/@justatz?si=tqLJPjHj_7WIH26pyoutubechannel/0029VajweHxKQuJP6qnjLM31"  target="blank"><img
- align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="hanstech" height="60" width="70" /></a>
+ align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="justatech" height="60" width="70" /></a>
 
 
 ## License
