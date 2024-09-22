@@ -87,9 +87,9 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 <a href="https://wa.me/message/J2ZL2GNK4GIUA1"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="255774044662" height="60" width="70" /></a>
 
 
-𝕐𝕆𝕌 𝕋𝕌𝔹𝔼 ℂℍ𝔸ℕℕ𝔼𝕃
+𝕎ℍ𝔸𝕋'𝕊 𝔸ℙℙ 𝔾ℝ𝕆𝕌ℙ
 <a
-href="https://youtube.com/@justatz?si=tqLJPjHj_7WIH26pyoutubechannel/0029VajweHxKQuJP6qnjLM31"  target="blank"><img
+href="https://chat.whatsapp.com/FohMUMLEDGt1pNJA9St1bo?si=tqLJPjHj_7WIH26pyoutubechannel/0029VajweHxKQuJP6qnjLM31"  target="blank"><img
  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="hanstech" height="60" width="70" /></a>
 
 
