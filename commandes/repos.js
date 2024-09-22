@@ -3,8 +3,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "🛠️", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repos/JUSTATZ-MD';
-  const img = 'https://telegra.ph/file/347ba7a613b4d025b89a8.jpg';
+  const githubRepo = 'https://api.github.com/repo/JustaTz01/JUSTATZ-MD';
+  const img = '';
 
   try {
     const response = await fetch(githubRepo);
