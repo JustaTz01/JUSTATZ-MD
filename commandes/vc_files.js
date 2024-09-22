@@ -78,7 +78,7 @@ zokou({ nomCom: 'channel',
 );
 
 
-zokou({ nomCom: 'timnasagc',
+zokou({ nomCom: 'justatzytsvid',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '🤓', 
@@ -89,7 +89,7 @@ zokou({ nomCom: 'timnasagc',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap Here To subscribe our you tube channel* https://youtube.com/@justatz?si=tqLJPjHj_7WIH26p`) 
+                 await repondre(`*Tap Here To Whatch our you tube video* https://youtube.com/@justatz?si=tqLJPjHj_7WIH26p`) 
 
    
 
@@ -150,7 +150,7 @@ zokou({ nomCom: 'justatzyts',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap to subscribe our you tube channel* https://youtube.com/@justatz?si=tqLJPjHj_7WIH26p`) 
+                 await repondre(`*Tap to subscribe our you tube channel* https://youtube.com/@JustaTz`) 
 
    
 
