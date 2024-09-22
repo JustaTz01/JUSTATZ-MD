@@ -20,7 +20,7 @@ JUSTATZ MD</b>, simple powerful bot </p>
 <a href="https://github.com/JustaTz01/JUSTATZ-MD/watchers"><img title="Watching" src="https://watchers/JustaTz01/JUSTATZ-MD?label=Watching&style=social"></a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{HANSTZ3}/count.svg" alt="JUSTATZ-MD :: Visitor's Count"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{JustaTz01}/count.svg" alt="JUSTATZ-MD :: Visitor's Count"/></p>
 
 </a>
   <div align="center">
