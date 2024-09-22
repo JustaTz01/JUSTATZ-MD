@@ -10,7 +10,7 @@
 
 </h1> 
 <p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>𝕃
-TIMNASA MD</b>, simple powerful bot </p>
+JUSTATZ MD</b>, simple powerful bot </p>
 
 </p>
   <p align="center">
@@ -104,7 +104,7 @@ The WhatsApp Bot JUSTATZ MD is released under the [MIT License](https://opensour
 ## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
 
 - [**JUSTATZ TECH**](https://github.com/)
-- [**JUSTATZ TECH**](https://github.com/JustaTz01)
+- [**JUSTATZ-MD**](https://github.com/JustaTz01)
      
 
 
