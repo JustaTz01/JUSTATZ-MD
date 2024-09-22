@@ -7,7 +7,7 @@ zokou({ nomCom: "channel", reaction: "😌", nomFichier: __filename }, async (de
     let z = 'Salut je m\'appelle *JUSTATZ_MD* \n\n ' + 'je suis un bot Whatsapp Multi-appareil voici la chaîne';
     let d = ' developpé par *JustaTz Tech🏹*';
     let varmess = z + d;
-    var lien = 'https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31';  // Remplacez cet URL par le lien que vous souhaitez envoyer
+    var lien = 'https://youtube.com/@justatz?si=dsGgfh7SkaVDpRuD';  // Remplacez cet URL par le lien que vous souhaitez envoyer
     await zk.sendMessage(dest, { text: varmess + "\n" + lien });
 });
 
