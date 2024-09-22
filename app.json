@@ -2,7 +2,7 @@
   "name":"JUSTATZ update by me",
   "description":"Best WhatsApp Bot Developed By JUSTATZ TECH Contact Us 255774044662, Thank you for choose JUSTATZMD ",
   "keywords":["justatz","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/347ba7a613b4d025b89a8.jpg",
+  "logo":"https://i.imgur.com/4teIYhc.jpeg",
   "repository":"https://github.com/JustaTz01/JUSTATZ-MD",
   "succes_url":"/",
   "stack":"container",
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"JUSTATZ MD",
+      "value":"JUSTATZ-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/347ba7a613b4d025b89a8.jpg",
+      "value":"https://i.imgur.com/4teIYhc.jpeg",
       "required":false
        
      },
@@ -54,7 +54,7 @@
     },
     "HEROKU_APY_KEY": {
       "description": "insert your heroku api-key (The name you wrote at the beginning)",
-      "value" : "HRKU-0530302f-0e9b-481a-a5df-4e66561c0814", 
+      "value" : "HRKU-bfecf25a-8b57-4b36-9c2a-35b20d629612", 
       "required": true
     },
   "HEROKU_APP_NAME": {
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "JUSTATZ MD"
+    "value": "JUSTATZ-MD"
   },
     "OWNER_NUMBER":
   {
@@ -88,7 +88,7 @@
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "5"
+    "value": "3"
   },
   "STARTING_BOT_MESSAGE":
   {
