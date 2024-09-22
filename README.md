@@ -16,8 +16,8 @@ JUSTATZ MD</b>, simple powerful bot </p>
   <p align="center">
 <a href="https://github.com/JustaTz01?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/JustaTz01?label=Followers&style=social"></a>
 <a href="https://github.com/JustaTz01/JUSTATZ-MD/stargazers/"><img title="STARS" src="https://i.imgur.com/mzl5n6Z.jpeg/stars/JustaTz01/JUSTATZ-MD?&style=social"></a>
-<a href="https://github.com/JustaTz01/JUSTATZ-MD/network/members"><img title="Forks" src="https://i.imgur.com/mzl5n6Z.jpeg/forks/JustaTz01/JUSTATZ-MD?style=social"></a>
-<a href="https://github.com/JustaTz01/JUSTATZ-MD/watchers"><img title="Watching" src="https://i.imgur.com/mzl5n6Z.jpeg/watchers/JustaTz01/JUSTATZ-MD?label=Watching&style=social"></a>
+<a href="https://github.com/JustaTz01/JUSTATZ-MD/network/members"><img title="Forks" src="https://forks/JustaTz01/JUSTATZ-MD?style=social"></a>
+<a href="https://github.com/JustaTz01/JUSTATZ-MD/watchers"><img title="Watching" src="https://watchers/JustaTz01/JUSTATZ-MD?label=Watching&style=social"></a>
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{HANSTZ3}/count.svg" alt="JUSTATZ-MD :: Visitor's Count"/></p>
