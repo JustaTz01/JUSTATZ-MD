@@ -26,7 +26,7 @@ zokou({
     'nom': "JUSTATZ",
     'numero': "255774044662"
   }];
-  let _0x2d5c7e = "Hello👋  *I'm JUSTATZ-MD* \nThe Following Numbers Are For  *JUSTATZ_MD* Agents, \nYou Can Ask Them Anything Regarding yesser Bot \nFollow Our Channel For More Tech :https://wa.me/message/J2ZL2GNK4GIUA1 \n*KEEP USING JUSTATZ-MD*:\n\n";
+  let _0x2d5c7e = "Hello👋  *I'm JUSTATZ-MD* \nThe Following Numbers Are For  *JUSTATZ_MD* Agents, \nYou Can Ask Them Anything Regarding yesser Bot \nFollow Our Channel For More Tech :https://youtube.com/@justatz?si=KfeHBHSAUl8l-IBy \n*KEEP USING JUSTATZ-MD*:\n\n";
   for (const _0x14eeec of _0x21b56d) {
     _0x2d5c7e += "----------------\n(●) " + _0x14eeec.nom + " : https://wa.me/" + _0x14eeec.numero + "\n";
   }

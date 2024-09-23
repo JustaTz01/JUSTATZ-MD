@@ -43,12 +43,10 @@ const date = moment().format('DD/MM/YYYY');
 > https://github.com/JustaTz01
 
 *FOR DEVELOPER T.ME*
-> https://wa.me/message/J2ZL2GNK4GIUA1
+> https://wa.me/255774044662
 
 *YOU TUBE CHANNEL*
-> https://youtube.com/@justatz?si=tqLJPjHj_7WIH26p
-
-*FOR MORE INFO TAP ON THE LINK BELOW*
+> www.youtube.com/@JustaTz.meFOR MORE INFO TAP ON THE LINK BELOW*
 > https://github.com/JustaTz01/JUSTATZ-MD
 ╭──━━━━═════════━━━━⦿
 ┃ ❂━━━════➳════━━━━❂
