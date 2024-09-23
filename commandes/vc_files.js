@@ -69,7 +69,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31`) 
+                 await repondre(`https://youtube.com/@justatz?si=RzAIAwi6TnjxNvPK`) 
 
    
 
@@ -78,7 +78,7 @@ zokou({ nomCom: 'channel',
 );
 
 
-zokou({ nomCom: 'justatzytsvid',
+zokou({ nomCom: 'ytsjustatzvid',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '🤓', 
@@ -139,7 +139,7 @@ zokou({ nomCom: 'vision',
 
 
   
-zokou({ nomCom: 'justatzyts',
+zokou({ nomCom: 'ytsjustatz',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '♻️', 
