@@ -67,7 +67,7 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
 
 ╭──━━━━══════━━━━❂
-┃ ━━⦿ *JUSTATZ MD* ⦿━━
+┃ ━━⦿ *JUSTΔTZ MD* ⦿━━
 ┃ ✯𝕄𝕠𝕕𝕖: ${mode}
 ┃ ✯𝕌𝕤𝕖𝕣 : ${s.OWNER_NAME}
 ┃ ✯𝕃𝕚𝕓𝕣𝕒𝕣𝕪 : Baileys
@@ -85,7 +85,7 @@ const date = moment().format('DD/MM/YYYY');
 
 let menuMsg = `
 ┏━━══════━━┓
-┃⦿ _*JUSTATZ TECH*_
+┃⦿ _*JUSTΔTZ TΣCH*_
 ┗━━══════━━┛\n
 
 
@@ -115,11 +115,11 @@ let menuMsg = `
 
 
  ╭──━━══════━━━━┓
- ┃⦿ _*JUSTATZ MD*_
- ┃⦿ _*𝔸𝕝𝕠𝕟𝕖*_ 
+ ┃⦿ _*JUSTΔTZ MD*_
+ ┃⦿ _*ΔLΩΠΣ*_ 
  ╰──━━══════━━━┳┛
  ╭──━━══════━━━┻┓
- ┃⦿ _*𝕡𝕠𝕨𝕖𝕣𝕖𝕕 𝕓𝕪 𖣘JUSTATZ TECH𖣘*_
+ ┃⦿ _*PΩШΣRΣD βΨ 𖣘JUSTΔTZ TΣCH𖣘*_
  ╰──━━══════━━━━┛\n
 
 
