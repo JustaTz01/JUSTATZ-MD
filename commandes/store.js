@@ -166,7 +166,7 @@ _CPU Core(s) Usage (12 Core CPU)_
             menuMsg += "";
         }
     }
-    var link = "https://telegra.ph/file/347ba7a613b4d025b89a8.jpg";
+    var link = "https://i.imgur.com/4teIYhc.jpeg";
     try {
         zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©TKM INC" }, { quoted: ms });
     }
