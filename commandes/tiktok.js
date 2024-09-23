@@ -1,6 +1,6 @@
 /*
-Timnasa-MD V1.0 
- Coded By Hans tech
+JUSTΔTZ-MD V1.0 
+ Coded By JUSTΔTZ tech
 
 Modified File : tiktok.js
 Modified Date : 8/23/2024

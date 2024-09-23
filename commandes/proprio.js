@@ -19,7 +19,7 @@ const{repondre,ms,dev,superUser}=com;
 
   const {exec}=require("child_process")
 
-    repondre("*JustaTz is restarting ...*");
+    repondre("*JUSTΔTZ is restarting ...*");
 
   exec("pm2 restart all");
   
