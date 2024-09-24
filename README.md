@@ -90,7 +90,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 𝕎ℍ𝔸𝕋'𝕊 𝔸ℙℙ 𝔾ℝ𝕆𝕌ℙ
 <a
 href="https://chat.whatsapp.com/FohMUMLEDGt1pNJA9St1bo?si=tqLJPjHj_7WIH26pyoutubechannel/0029VajweHxKQuJP6qnjLM31"  target="blank"><img
- align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="hanstech" height="60" width="70" /></a>
+ align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="justatztech" height="60" width="70" /></a>
 
 
 ## License
