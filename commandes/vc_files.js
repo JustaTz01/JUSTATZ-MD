@@ -78,7 +78,7 @@ zokou({ nomCom: 'channel',
 );
 
 
-zokou({ nomCom: 'group',
+zokou({ nomCom: 'grp',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '🤓', 
