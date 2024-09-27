@@ -2,9 +2,9 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
-zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repos/JustaTz01/JUSTATZ-MD';
-  const img = 'https://i.imgur.com/Gey4sia.jpeg';
+zokou({ nomCom: "repo", catégorie:"Général", reaction: "⚙️", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+  const githubRepo = 'https://api.github.com/repos/JustaTz01/JUSTATZ_MD';
+  const img = 'https://i.imgur.com/lXDN6dv.jpeg';
 
   try {
     const response = await fetch(githubRepo);
@@ -21,14 +21,35 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __f
       const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
-      const gitdata = `┏❏ JUSTATZ MD REPO❐
-┃😶 *REPOSITORY:* ${data.html_url}
-┃✨ *STARS:* ${repoInfo.stars}
-┃🧧 *FORKS:* ${repoInfo.forks}
-┃📅 *RELEASE DATE:* ${releaseDate}
-┃🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
-┃👨‍💻 *OWNER* :JustaTz Md
-┗❏`;
+      const gitdata = `*hellow whatsaap user
+this is* *JUSTΔTZ_MD V7.*\n support our channel *by*,  www.youtube.com/@JustaTz
+
+
+╭──━━━━━━☆•∞•☆━━━━━━⊛
+└│🗼 *REPOSITORY:* ${data.html_url}
+┌┤🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
+╰──━━━━━━☆•∞•☆━━━━━━⊛
+   
+
+         ┌─═━━━⊷•∞•⊷━━━──✣
+   ╭─⦿ ━━━══✣══━━➻
+ ┌┤😶‍🌫️*VISITORS:* ${repoInfo.visitors}
+ ┃│🌟 *STARS:* ${repoInfo.stars}
+ ┃│🧧 *FORKS:* ${repoInfo.forks}
+ ┃│📅 *RELEASE DATE:* ${releaseDate}
+ ┌┤👨‍💻 *OWNER:* *JUSTΔTZ tech*
+ ┃│💞 *THEME:* *JUSTΔTZ*
+ ┃│🥰 *ΔLΩΠΣ*
+   ╰─⦿ ━━━══✣══━━➻
+         └─═━━━⊷•∞•⊷━━━──✣
+ 
+  ▓▒━━━⊷➻•∞•➻➳⊷━━━▒▓
+  
+        ╭──═════──❖ 
+╭  ╭❂ ⊷━━━━•∞•━━━━⊷
+║  ┃ _*Made With JUSTΔTZ Tech*_
+╰  ╰❂ ⊷━━━━•∞•━━━━⊷
+        ╰──═════──❖ `;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
