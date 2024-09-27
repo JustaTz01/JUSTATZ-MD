@@ -6,7 +6,7 @@
  </p>
  
  <a href="https://wa.me/message/J2ZL2GNK4GIUA1">
- <img alt="JUSTATZ 𝕄𝔻" height="300" src="https://i.imgur.com/mzl5n6Z.jpeg".
+ <img alt="JUSTATZ 𝕄𝔻" height="300" src="https://i.imgur.com/lXDN6dv.jpeg".
 
 </h1> 
 <p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>𝕃
